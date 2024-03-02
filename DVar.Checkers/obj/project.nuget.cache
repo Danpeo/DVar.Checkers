@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gl33GlJSPGKyKrBuZYn3k7W+8yJZ3H8qiNKs26LPpP3Jkkn2jk7xvL9cQ0Iq9Jg4rg0zKT9nNRwMLFkwfeA+ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\RiderProjects\\DVar.Checkers\\DVar.Checkers\\DVar.Checkers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
